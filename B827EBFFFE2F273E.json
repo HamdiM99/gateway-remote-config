@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "the id as you noted down   in the install.sh console output", 
+		"servers": [ 
+			{ 
+				"server_address": "the router to which you   want to connect to", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 36.84252351, 
+		"ref_longitude": 10.19700737, 
+		"ref_altitude": 40, 
+		"contact_email": "mustapha.hamdi@insat.rnu.tn", 
+		"description": "INSAT Lorawan Gateway" 
+	} 
+} 
